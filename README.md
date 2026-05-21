@@ -125,6 +125,3 @@ Python-Value-Added/
 📌 Note
 
 These programs are created for educational and learning purposes only.
-
-# python-programs
-value added coruse
