@@ -108,14 +108,13 @@ Description
 
 📁 Repository Structure
 
-Python-Value-Added/
-│
-├── Basic Programs
-├── Networking Programs
-├── Flask Applications
-├── Games
-├── Security Programs
-└── Mini Projects
+Python-Value-Added
+ *Basic Programs
+ *Networking Programs
+ *Flask Applications
+ *Games
+ *Security Programs
+ *Mini Projects
 
 ⭐ Author
 
