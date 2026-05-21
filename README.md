@@ -2,15 +2,16 @@
 
 👨‍🎓 Student Details
 
-Name :Harsath S
-Department : B.Tech IT
+Name            : Harsath S
+Department      : B.Tech IT
 Register Number : 621324205019
-Linkedin ID : www.linkedin.com/in/harsath-s-561389376
+Linkedin ID     : www.linkedin.com/in/harsath-s-561389376
 
 📖 About
 
   This repository contains Python programs, mini projects, games, networking applications, and Flask-based applications created during Python training sessions.
   The purpose of this repository is to improve programming knowledge, logic-building skills, and practical application development.
+  
 🛠 Topics Covered
 
   * Python Basics
@@ -22,6 +23,7 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
   * Hashing & Security
   * Tkinter GUI
   * Game Development
+    
 📂 Programs Included
 
 🔹 Basic Programs
@@ -34,6 +36,7 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
   * Set Operations
   * Student Record Program
   * Marks Calculation Program
+    
 🔹 Networking & Security
 
   * Socket Programming
@@ -43,10 +46,12 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
   * Password Program
   * MD5 Hashing
   * Hash Programs
+
 🔹 Flask & Web Applications
 
   * Flask Basics
   * Chat Application
+
 🔹 Games & GUI Projects
 
   * Snake Game
@@ -56,6 +61,7 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
   * Ball Animation
   * Car Animation
   * Catching Game
+
 🔹 Other Mini Projects
 
   * Contact Management
@@ -63,6 +69,7 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
   * Snacks Online Order System
   * Banner Programs
   * Search Programs
+
 💻 Technologies Used
 
 ▶️ How to Run
@@ -72,14 +79,17 @@ Linkedin ID : www.linkedin.com/in/harsath-s-561389376
    3. Download or clone this repository.
    4. Open terminal or command prompt.
    5. Run any Python file using
+
 📌 Final Project
 
 Title
 
  * Python Mini Projects Collection
+
 Description
 
   This repository demonstrates Python programming concepts through multiple mini projects including networking applications, Flask web apps, security programs, and Python games.
+
 🎯 Learning Outcome
 
   After completing these programs, the following skills were improved:
@@ -91,6 +101,8 @@ Description
   * Flask Web Application Basics
   * File Handling & Data Management
   * Security Concepts using Hashing
+
+
 📁 Repository Structure
 
 Python-Value-Added/
@@ -105,8 +117,8 @@ Python-Value-Added/
 ⭐ Author
 
  Harsath S
-
  B.Tech IT Student
+
 📌 Note
 
 These programs are created for educational and learning purposes only.
