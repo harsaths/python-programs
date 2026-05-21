@@ -2,13 +2,13 @@
 
 👨‍🎓 Student Details
 
-Name            : Harsath S
-
-Department      : B.Tech IT
-
-Register Number : 621324205019
-
-Linkedin ID     : www.linkedin.com/in/harsath-s-561389376
+  Name            : Harsath S
+  
+  Department      : B.Tech IT
+  
+  Register Number : 621324205019
+  
+  Linkedin ID     : www.linkedin.com/in/harsath-s-561389376
 
 📖 About
 
